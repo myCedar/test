@@ -1,4 +1,6 @@
 # wxbot 微信机器人
+-----基于https://github.com/fritx/wxbot.git项目做出一些更改，完成自动发送及回复等。
+
 
 <a href="https://github.com/fritx/awesome-wechat"><img width="110" height="20" src="https://img.shields.io/badge/awesome-wechat-brightgreen.svg"></a>&nbsp;&nbsp;<a href="https://github.com/fritx/wxbot"><img width="74" height="20" src="https://img.shields.io/badge/github-dev-orange.svg"></a>
 
